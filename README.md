@@ -43,6 +43,6 @@ The calculator window includes:
 
 ---
 
-### 📸 Preview (Optional)
-*(You can add a screenshot here after running your calculator)*  
+### 📸 Preview
+<img width="498" height="675" alt="Image" src="https://github.com/user-attachments/assets/b86e5a8b-80ea-4145-b0c7-bf85758edd27" />
 

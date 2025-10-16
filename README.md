@@ -93,7 +93,7 @@ The **Scientific Calculator** includes:
 ---
 
 ### 📸 Preview
-<img width="580" height="680" alt="Image" src="https://github.com/user-attachments/assets/1aaf8b52-24a7-4c7b-81a0-b9b55cb96785" />
+<img width="735" height="617" alt="Image" src="https://github.com/user-attachments/assets/5df1dec6-a42e-41e2-9bf5-b8aafd21c0f9" />
 
 ---
 
